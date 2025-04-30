@@ -1,47 +1,49 @@
-# 🌟🌟 Khaled's Profile 🌟🌟
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Khalid's Developer Profile
 
-I'm a **Junior Front-End Developer** passionate about web development and eager to build more advanced projects!
+### 👨‍💻 **About Me**  
+I'm a **Front-End Developer** with a passion for building interactive and responsive web applications. Currently focused on expanding my skills in modern JavaScript frameworks and UI/UX design.
 
-- 🌱 Currently learning **React** and improving my **JavaScript** skills
-- 🔧 I enjoy solving problems and implementing creative solutions
-- 🌍 Based in **Egypt**, exploring web technologies and code every day
-
----
-
-📫 **How to reach me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-qotb-150bba26a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khalidalan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidalan44@gmail.com)
+- 🌱 **Learning:** React, Advanced JavaScript
+- 🛠️ **Working On:** Personal projects to enhance my portfolio  
+- 📍 **Based In:** Egypt  
+- 💡 **Interests:** Problem-solving, clean code, and creative web solutions  
 
 ---
 
-## 🛠 **Skills**
+### 📬 **Connect With Me**  
 
-### Programming Languages:
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-qotb-150bba26a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khalidalan)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidalan44@gmail.com)
+
+---
+
+## 🚀 **Skills & Technologies**  
+
+### **Front-End Development**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Web Development:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-
-### Software Development:
+### **Tools & Workflow**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-blue?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Soft Skills:
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-brightgreen?style=for-the-badge)
-![Teamwork](https://img.shields.io/badge/Teamwork-orange?style=for-the-badge)
-![Communication](https://img.shields.io/badge/Communication-blue?style=for-the-badge)
+### **Soft Skills**  
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF6B6B?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Teamwork-4ECDC4?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-6A5ACD?style=for-the-badge)
 
 ---
 
-### 🎯 **Links**
 
-- GitHub: [https://github.com/khalidalan](https://github.com/khalidalan)
-- LinkedIn: [https://www.linkedin.com/in/khalid-qotb-150bba26a/](https://www.linkedin.com/in/khalid-qotb-150bba26a/)
-- Email: [khalidalan44@gmail.com ]
+## 📈 **GitHub Stats**  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalidalan&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidalan&layout=compact&theme=radical)  
+
+---
